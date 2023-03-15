@@ -1,0 +1,18 @@
+body {
+    background-color: white;
+}
+form {
+    background-color: #03b0fd;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 220px 500px;
+    border: #b0d9ff 5px solid;
+    border-radius: 20px 0 20px 0;
+    text-align: center;
+}
+
+input.enviar {
+    background-color: #02fbff;
+    margin: 10px;
+    font-size: 15px;
+    font-family: serif;
+}

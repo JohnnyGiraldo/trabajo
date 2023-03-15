@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_ingresar" value="name:cedula;datatype:int,name:fecha;datatype:date,name:asunto;datatype:string,name:primer_nombre;datatype:string,name:segundo_nombre;datatype:string,name:primer_apellido;datatype:string,name:segundo_apellido;datatype:string,name:fijo;datatype:int,name:celular;datatype:string,name:direccion;datatype:string,name:barrio;datatype:string,name:descripcion;datatype:blob" />
+</info>

@@ -1,0 +1,21 @@
+body {
+    background-color: #7241ff;
+}
+
+form {
+    background-color: #03b0fd;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 200px 400px;
+    border: #b0d9ff 5px solid;
+    border-radius: 20px 0 20px 0;
+    text-align: center;
+}
+
+input.actualizar {
+    background-color: #02fbff;
+    margin: 10px;
+    font-size: 15px;
+    font-family: serif;
+    cursor: pointer;
+
+}
