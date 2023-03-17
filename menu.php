@@ -18,7 +18,7 @@ ul {
     <ul>
       <li><a href="personapais.php">Insertar Registro</a></li>
       <li><a href="lista.php">Continuar a el listado</a></li>
-      <li><a href="index1.php">Volver al principio</a></li>
+      <li><a href="index.php">Volver al principio</a></li>
     </ul>
 </body>
 </html>
